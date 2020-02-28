@@ -1,6 +1,6 @@
 # flutter_android_widget
 
-A new Flutter application.
+在flutter中嵌入Android View
 
 ## Getting Started
 
